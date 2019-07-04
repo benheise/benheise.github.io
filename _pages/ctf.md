@@ -5,8 +5,6 @@ sitemap: true
 permalink: /ctf.html
 ---
 
-## CTFs
-
 I love CTFs and Cyber Exercises, and have participated and created several. Here's a list of what I've participated in:
 
 | Date | Event | Team |
@@ -20,3 +18,4 @@ I love CTFs and Cyber Exercises, and have participated and created several. Here
 | 2011         | [MITRE STEM CTF](https://mitrecyberacademy.org/competitions/)  | [UMUC Cyber Padawans](https://www.umuc.edu/academic-programs/cyber-security/cyber-team.cfm) |
 | 2011         | [US Cyber Challenge(USCC)](https://www.uscyberchallenge.org/)         | Team10 |
 
+------

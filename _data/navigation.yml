@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: https://benjaminheise.com/about.html
+  - title: "Blog"
+    url: https://benjaminheise.com/blog.html
   - title: "CTFs"
     url: https://benjaminheise.com/ctf.html
   - title: "Services"
