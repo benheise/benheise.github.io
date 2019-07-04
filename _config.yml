@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ben Heise"
+title                    : 
 title_separator          : "-"
-name                     : ""
+name                     :
 description              : "Home of Ben Heise, a redteamer, podcaster, and CTF winner."
 url                      : "https://benjaminheise.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
