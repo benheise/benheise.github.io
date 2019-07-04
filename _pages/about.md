@@ -9,4 +9,4 @@ permalink: /about.html
 
 ### In the news
 
-He and his tweets have been featured on several publications such as [SCMagazine](https://www.scmagazine.com/home/security-news/trump-win-alarms-cyber-pros/), [Softpedia](https://news.softpedia.com/news/shadow-brokers-cancel-auction-of-supposed-nsa-hacking-tools-509346.shtml), [twice](https://news.softpedia.com/news/shadow-brokers-group-claims-to-be-selling-nsa-hacking-tools-507322.shtml), and [Techmeme](https://www.techmeme.com/180416/p14#a180416p14). 
+He and his tweets have been featured on several publications such as [SCMagazine](https://www.scmagazine.com/home/security-news/trump-win-alarms-cyber-pros/), [Softpedia](https://news.softpedia.com/news/shadow-brokers-cancel-auction-of-supposed-nsa-hacking-tools-509346.shtml) ([twice](https://news.softpedia.com/news/shadow-brokers-group-claims-to-be-selling-nsa-hacking-tools-507322.shtml)), and [Techmeme](https://www.techmeme.com/180416/p14#a180416p14). 
