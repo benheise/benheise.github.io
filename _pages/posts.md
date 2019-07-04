@@ -1,11 +1,9 @@
 ---
-title: "My Blog"
-excerpt: "The place I post all the stuff I write about"
+title: "Posts"
+excerpt: "Recent Posts"
 sitemap: true
-permalink: /blog.html
+permalink: /posts.html
 ---
-
-{{ content }}
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 

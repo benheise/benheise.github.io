@@ -2,12 +2,12 @@
 main:
   - title: "About"
     url: https://benjaminheise.com/about.html
-  - title: "Blog"
-    url: https://benjaminheise.com/blog.html
   - title: "CTFs"
     url: https://benjaminheise.com/ctf.html
   - title: "Services"
     url: https://benjaminheise.com/services.html
+  - title: "Posts"
+    url: https://benjaminheise.com/posts.html
   - title: "Projects"
     url: https://benjaminheise.com/projects.html
   - title: "Watch"
