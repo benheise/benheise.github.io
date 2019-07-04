@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ben Heise"
+  name             : 
   avatar           : "/images/headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Redteamer"
   location         : "On your computers"
