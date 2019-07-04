@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : 
+title                    : "Ben Heise"
 title_separator          : "-"
 name                     :
 description              : "Home of Ben Heise, a redteamer, podcaster, and CTF winner."
@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ben Heise"
+  name             :
   avatar           : "/images/headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Redteamer"
   location         : "On your computers"
