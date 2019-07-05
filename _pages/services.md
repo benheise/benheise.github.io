@@ -3,11 +3,14 @@ title: "My Services"
 excerpt: "Services that I offer"
 sitemap: true
 permalink: /services/
+toc: true
 ---
 
 Interested in hiring me for some 1099 or W-2 work? Here are some of the freelance services I offer. Send me an email using the link on the left sidebar and we can discuss your needs further.
 
 ------
+
+{% include toc %}
 
 ### Penetration Testing
 
