@@ -1,15 +1,15 @@
 # main links
 main:
   - title: "About"
-    url: https://benjaminheise.com/about.html
+    url: https://benjaminheise.com/about/
   - title: "CTFs"
-    url: https://benjaminheise.com/ctf.html
+    url: https://benjaminheise.com/ctf/
   - title: "Services"
-    url: https://benjaminheise.com/services.html
+    url: https://benjaminheise.com/services/
   - title: "Posts"
-    url: https://benjaminheise.com/posts.html
+    url: https://benjaminheise.com/posts/
   - title: "Projects"
-    url: https://benjaminheise.com/projects.html
+    url: https://benjaminheise.com/projects/
   - title: "Watch"
     url: https://twitch.tv/rallysecurity
   # - title: "Sample Posts"
