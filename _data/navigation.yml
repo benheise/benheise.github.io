@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: https://benjaminheise.com/about/
   - title: "CTFs"
-    url: https://benjaminheise.com/ctf/
+    url: https://benjaminheise.com/capturetheflag/
   - title: "Services"
     url: https://benjaminheise.com/services/
   - title: "Posts"

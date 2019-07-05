@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ben Heise"
+title                    : "Ben Heise's homepage and projects site"
 title_separator          : "-"
 name                     : "Home"
-description              : "Home of Ben Heise, a redteamer, podcaster, and CTF winner."
+description              : "Home of Ben Heise, a hacker, redteamer, technologist, podcaster, and Capture The Flag winner."
 url                      : "https://benjaminheise.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "benheise/jekyll-streamer" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

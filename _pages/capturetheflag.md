@@ -1,8 +1,8 @@
 ---
-title: "CTFs"
+title: "Capture The Flag"
 excerpt: "CTFs I've participated in"
 sitemap: true
-permalink: /ctf/
+permalink: /capturetheflag/
 ---
 
 I love CTFs and Cyber Exercises, and have participated and created several. Here's a list of what I've participated in:
