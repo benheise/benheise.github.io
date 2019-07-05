@@ -15,7 +15,7 @@ I love CTFs and Cyber Exercises, and have participated and created several. Here
 | 2012-2013    |  [NSA Cyber Defense Exercise (CDX)](https://www.nsa.gov/) |  Red Team | N/a |
 | 2011-2012    | [NA Global Cyberlympics (NAGCL)](https://www.cyberlympics.org/)    |  TeamICF (Red Team) | 2nd |
 | 2011-2012    | [Maryland Cyber Challenge (MDC3)](https://www.fbcinc.com/e/cybermdconference/challenge.aspx)   | TeamICF (Red Team)  | 1st |
-| 2011         | [MITRE STEM CTF](https://mitrecyberacademy.org/competitions/)  | [UMUC Cyber Padawans](https://www.umuc.edu/academic-programs/cyber-security/cyber-team.cfm) | N/a |
+| 2011         | [MITRE STEM CTF](https://mitrecyberacademy.org/competitions/)  | [UMUC Cyber Padawans](https://www.umuc.edu/academic-programs/cyber-security/cyber-team.cfm) | 3rd |
 | 2011         | [US Cyber Challenge(USCC)](https://www.uscyberchallenge.org/)         | Team10 | 1st |
 
 ------
