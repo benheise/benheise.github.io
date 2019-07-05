@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: Ben Heise and UMUC Team Places in Top Three of National Cybersecurity Competition 
 ---
 

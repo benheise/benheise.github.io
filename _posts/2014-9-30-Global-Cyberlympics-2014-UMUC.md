@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: Ben Heise and UMUC’s Cyber Padawans take home the gold at the 2014 Global Cyberlympics
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: Ben Heise and the Army Research Lab’s TeamICF takes silver at 2012 Global Cyberlympics
 ---
 

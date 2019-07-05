@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: UMUC’s Ben Heise Finished Third In National Cyber League Competition
 ---
 

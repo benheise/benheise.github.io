@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: Ben Heise and TeamICF Take 2nd at the 2012 Global Cyberlympics
 ---
 
