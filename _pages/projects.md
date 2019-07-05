@@ -2,7 +2,7 @@
 title: "Projects"
 excerpt: "My projects"
 sitemap: true
-permalink: /projects.html
+permalink: /projects/
 ---
 
 ------

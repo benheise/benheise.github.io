@@ -2,7 +2,7 @@
 title: "About"
 excerpt: "About Ben Heise"
 sitemap: true
-permalink: /about.html
+permalink: /about/
 ---
 
 [Ben Heise](https://twitter.com/benheise) is an information security professional who specializes in performing penetration testing, adversarial (red team) operations, and studying the history, tools, techniques, and procedures of “APTs". He's a US Army veteran looking to help others and make the world a better place. [You can watch his podcast](http://rallysecurity.com) where he and other industry professionals share their opinions and discuss weekly news.
