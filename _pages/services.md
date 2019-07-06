@@ -4,6 +4,8 @@ excerpt: "Services that I offer"
 sitemap: true
 permalink: /services/
 toc: true
+toc_label: "Services Offered"
+toc_sticky: false
 ---
 
 Interested in hiring me for some 1099 or W-2 work? Here are some of the freelance services I offer. Send me an email using the link on the left sidebar and we can discuss your needs further.
@@ -35,7 +37,7 @@ Social engineering tactics that can be attempted include:
 
 ### Redteaming
 
-Red team testing uses advanced, real-world attack techniques to bypass security controls in order to gain access to protected systems or sensitive data.  I gather information starting with OSINT, making use of data from past breaches and other information I can scour from everywhere, including the Dark Web. I then attempt to identify vulnerabilities the system using scanning tools, performing analysis of information systems and applications, and attempting to manipulate software applications in ways they were not intended. I usually chain together multiple exploits of vulnerabilities in order to gain access to an information system.
+Red team testing uses advanced, real-world attack techniques to bypass security controls in order to gain access to protected systems or sensitive data. This is a goals oriented assessment with a wide, "no holds barred" (to the extent the law allows) scope. I gather information starting with OSINT, making use of data from past breaches and other information I can scour from everywhere, including the Dark Web. I then attempt to identify vulnerabilities the system using scanning tools, performing analysis of information systems and applications, and attempting to manipulate software applications in ways they were not intended. I usually chain together multiple exploits of vulnerabilities in order to gain access to an information system.
 
 A red team's goals can include:
 * Assess the overall security monitoring and defensiveness of client endpoints.
@@ -47,7 +49,7 @@ A red team's goals can include:
 
 ### Threat Emulation
 
-Threat emulation testing is a security assessment where I use real-world attack techniques used by various threat actor groups to bypass security controls in order to test and assess an organization's defensive monitoring and detection capabilities. It's similar to red teaming, but the techniques I use are mapped to a specific threat actor's history. First, a threat profile is generated using available Threat Intelligence to list the methods and techniques that an attacker has historically used against their targets. I then gather information about the targeted information systems, including architecture, layout, components, and purpose. I then attempt to identify vulnerabilities within the system using scanning tools, analysis of information systems and applications, and manipulation of software applications. 
+Threat emulation testing is a security assessment where I use real-world attack techniques used by various threat actor groups to bypass security controls in order to test and assess an organization's defensive monitoring and detection capabilities. It's similar to red teaming, but the techniques I use are mapped to a specific threat actor's history. First, a threat profile is generated using available Threat Intelligence to list the methods and techniques that an attacker has historically used against their targets. I gather information about the targeted information systems, including architecture, layout, components, and purpose. I then attempt to identify vulnerabilities within the system using scanning tools, analysis of information systems and applications, and manipulation of software applications. 
 
 The goals of performing a threat emulation operation are to:
 * Assess the overall security monitoring and defensiveness of client endpoints.

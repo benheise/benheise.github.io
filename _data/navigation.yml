@@ -4,6 +4,8 @@ main:
     url: https://benjaminheise.com/about/
   - title: "CTFs"
     url: https://benjaminheise.com/capturetheflag/
+  - title: "Contact"
+    url: https://benjaminheise.com/contact/
   - title: "Services"
     url: https://benjaminheise.com/services/
   - title: "Posts"
