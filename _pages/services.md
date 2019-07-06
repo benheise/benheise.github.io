@@ -6,8 +6,6 @@ permalink: /services/
 toc: true
 ---
 
-{% include toc %}
-
 Interested in hiring me for some 1099 or W-2 work? Here are some of the freelance services I offer. Send me an email using the link on the left sidebar and we can discuss your needs further.
 
 ------
