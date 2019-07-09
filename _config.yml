@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 locale                   : "en-US"
 title                    : "Ben Heise"
 title_separator          : "-"
-name                     : "Home"
+name                     : "Ben Heise"
 description              : "Ben Heise, a hacker, redteamer, information security, professional, technologist, podcaster, and Capture The Flag winner."
 url                      : "https://benjaminheise.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
