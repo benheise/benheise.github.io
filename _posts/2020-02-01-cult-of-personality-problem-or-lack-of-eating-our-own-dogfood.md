@@ -3,7 +3,7 @@ layout: single
 title: Cult of Personality problem or lack of eating our own dogfood?
 ---
 
-# Cult of Personality problem or lack of eating our own dogfood?
+
 
 > “I know your anger, I know your dreams, I've been everything you want to be. I'm the cult of personality.” -Living Colour, 1988
 
